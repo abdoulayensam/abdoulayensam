@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdoulaye
 - 👀 I’m interested in AI and Technology 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning development and AI
 - 💞️ I’m looking to collaborate on many open source projets of LLMs models
 <!--- 📫 How to reach me ... --->
 
